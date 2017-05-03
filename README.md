@@ -1,0 +1,1 @@
+# eea.kibana.configs
