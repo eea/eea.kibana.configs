@@ -1,1 +1,1 @@
-"{\".kibana\":{\"settings\":{\"index\":{\"number_of_shards\":\"1\",\"auto_expand_replicas\":\"0-1\",\"provided_name\":\".kibana\",\"creation_date\":\"1520324682666\",\"number_of_replicas\":\"1\",\"uuid\":\"q1Ih4QtdQoGPJD251l67ZQ\",\"version\":{\"created\":\"6020299\"}}}}}"
+"{\".kibana\":{\"settings\":{\"index\":{\"number_of_shards\":\"1\",\"auto_expand_replicas\":\"0-1\",\"number_of_replicas\":\"1\"}}}}"
